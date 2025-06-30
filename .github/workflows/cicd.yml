@@ -1,4 +1,4 @@
-name: devops app
+name: devops
 on:
   push:
     branches: ["main"]
